@@ -9,4 +9,4 @@ o arquivo: "menu do petlove" é uma base para fazer o arquivo: "funcoesmenu"
 
 o arquivo: "zona de teste" foi criado para testar as funcoes de forma prática e rápida.
 
-ps: eu fiz com carinho e uma pitada de ódio (talvez o contrário)
+ps: eu fiz com carinho e uma pitada de ódio <3
